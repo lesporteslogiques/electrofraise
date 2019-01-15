@@ -1,0 +1,15 @@
+ 2 X Step		White
+ 3 X Dir		Yellow
+ 4 Y Step		Orange
+ 5 Y Dir		Red
+ 6 Z Step		Grey
+ 7 Z Dir		Blue
+ 8 X Enable		Violet
+ 9 Y Enable		Violet
+14 Z Enable		Violet
+
+10 X Limit		Green
+11 Y Limit		Brown
+12 Z Limit		Black
+
+18-25 GND		Black
