@@ -1,7 +1,8 @@
-# electrofraise
+# electrofraise  
 
 Tentative(s) pour remettre en service une machine à commande numérique "Colinbus profiler"
-=======
+
+
 Modèle: Colinbus Profiler CNC
 
 L'entreprise Colinbus n'existe plus et il n'existe pas de pilotes open source.
