@@ -1,5 +1,4 @@
-Photos de la colinbus dans son état d'origine.
-
+**Photos de la colinbus dans son état d'origine.**
 
 carte : Colinbus MPI00440 / Serial : MPI00440001 
 
