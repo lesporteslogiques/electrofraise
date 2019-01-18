@@ -2,6 +2,8 @@
 
 carte : Colinbus MPI00440 / Serial : MPI00440001 
 
+La carte électronique est en deux parties, la plus grande s'occupe de commander les moteurs, la plus petite (carte fille) contient le microcontrôleur et le logiciel propriétaire, la société qui fabriquait cette machine n'existe plus :/
+
 circuits intégrés carte fille  
 * NXP LPC2214FBD144 : microcontrôleur ARM : ([datasheet](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/lpc-cortex-m-mcus/lpc2000-arm7-mcus/single-chip-16-32-bit-arm-microcontrollers-128-256-kb-isp-iap-flash-with-10-bit-adc-and-external-memory-interface:LPC2214FBD144))
 * ISSI IS61LV25616AL : 256K x 16 CMOS SRAM 3.3V (datasheet dans le dossier)
