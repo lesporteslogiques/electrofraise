@@ -14,8 +14,3 @@ Moteurs Nanotech ST4118M1206-KFRA
 * https://en.nanotec.com/products/357-st4118m1206-a/
 
 La connexion de la carte mère aux moteurs se fait en utilisant 6 broches d'un connecteur série DB9.
-
-
-Aucune documentation sur la communication entre un pc et la carte n'ayant été retrouvée (types de commandes, formats de fichiers), il reste deux possibilités pour remettre cette machine en service :
-* commander directement les moteurs par une carte arduino et un shield CNC, et transférer des fichiers GCode. La connexion entre arduino + shield CNC se fera en USB
-* installer un port DB25 et faire la liaison à la carte de contrôleur des moteurs, pour les utiliser. Les commandes sont envoyées par le port parallèle de l'ordinateur sur lequel est installé linux CNC, c'est le principe expliqué dans la vidéo de Marco Reps https://www.youtube.com/watch?v=RU573U6lsGU
